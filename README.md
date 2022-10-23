@@ -1,11 +1,11 @@
-# Stuff
+# Разное  
 
-## You need
+## Основные репозитории
 
 * github.com/C1TYZen/SPECTRUM_server
 * github.com/C1TYZen/SPECTRUM_client
 
-## To work with USBasp programmer you need
+## Для работы с прогрмматором USBasp необходимы
 
 * Win-AVR toolchain
 * zadig
